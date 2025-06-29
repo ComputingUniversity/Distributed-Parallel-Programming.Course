@@ -1,2 +1,3 @@
 - https://www.coursera.org/specializations/pcdp
 - https://www.coursera.org/learn/scala-parallel-programming
+- https://www.coursera.org/learn/blockchain-scalability
