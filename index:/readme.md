@@ -1,3 +1,6 @@
 - https://www.coursera.org/specializations/pcdp
 - https://www.coursera.org/learn/scala-parallel-programming
 - https://www.coursera.org/learn/blockchain-scalability
+- https://www.coursera.org/learn/introduction-high-performance-computing
+- https://www.coursera.org/learn/parallel-programming-in-java
+- 
